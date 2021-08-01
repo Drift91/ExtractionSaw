@@ -31,18 +31,21 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="CitizenFX.Client">
-      <HintPath>..\..\..\..\Desktop\FiveM C# Things\CitizenFX.Client.dll</HintPath>
+    <Reference Include="CitizenFX.Core.Client, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\CitizenFX.Core.Client.1.0.4292\lib\net45\CitizenFX.Core.Client.dll</HintPath>
     </Reference>
-    <Reference Include="NativeUI">
-      <HintPath>..\..\..\..\Desktop\FiveM C# Things\NativeUI.dll</HintPath>
+    <Reference Include="NativeUI, Version=1.9.0.0, Culture=neutral, processorArchitecture=AMD64">
+      <HintPath>..\packages\NativeUI.1.9.0\lib\net452\NativeUI.dll</HintPath>
     </Reference>
-    <Reference Include="Newtonsoft.Json, Version=6.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\Desktop\FiveM C# Things\newtonsoft-portable\Newtonsoft.Json.dll</HintPath>
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.13.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="ScriptHookVDotNet2, Version=2.10.6.0, Culture=neutral, processorArchitecture=AMD64">
+      <HintPath>..\packages\ScriptHookVDotNet2.2.10.7\lib\net452\ScriptHookVDotNet2.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -54,6 +57,9 @@
     <Compile Include="ExtractionSaw.cs" />
     <Compile Include="Models\SawVehicle.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
