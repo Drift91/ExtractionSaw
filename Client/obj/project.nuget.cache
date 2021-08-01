@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "frCZ4LIg1DoSA7qSHZJSTLvB3L8JOlDRjFmfPLMct85OAhTIwI9z4LlvrBeVaqNnde0HTWaC7ClmxZTbvavUJw==",
+  "success": true,
+  "projectFilePath": "S:\\Contents\\To Lotus\\downloads\\Software & Mods\\#GitHub\\ExtractionSaw\\Client\\Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kyle\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
