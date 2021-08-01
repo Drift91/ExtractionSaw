@@ -1,6 +1,7 @@
 S:\Contents\To Lotus\downloads\Software & Mods\#GitHub\ExtractionSaw\Server\bin\Debug\Server.net.dll
 S:\Contents\To Lotus\downloads\Software & Mods\#GitHub\ExtractionSaw\Server\bin\Debug\CitizenFX.Core.Server.dll
 S:\Contents\To Lotus\downloads\Software & Mods\#GitHub\ExtractionSaw\Server\bin\Debug\CitizenFX.Core.Server.xml
+S:\Contents\To Lotus\downloads\Software & Mods\#GitHub\ExtractionSaw\Server\obj\Debug\Server.csproj.AssemblyReference.cache
 S:\Contents\To Lotus\downloads\Software & Mods\#GitHub\ExtractionSaw\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
 S:\Contents\To Lotus\downloads\Software & Mods\#GitHub\ExtractionSaw\Server\obj\Debug\Server.csproj.CopyComplete
 S:\Contents\To Lotus\downloads\Software & Mods\#GitHub\ExtractionSaw\Server\obj\Debug\Server.net.dll

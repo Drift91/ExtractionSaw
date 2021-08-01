@@ -35,13 +35,11 @@
       <HintPath>..\packages\CitizenFX.Core.Client.1.0.4292\lib\net45\CitizenFX.Core.Client.dll</HintPath>
     </Reference>
     <Reference Include="NativeUI, Version=1.9.0.0, Culture=neutral, processorArchitecture=AMD64">
-      <HintPath>..\packages\NativeUI.1.9.0\lib\net452\NativeUI.dll</HintPath>
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>.\NativeUI.dll</HintPath>
     </Reference>
     <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
       <HintPath>..\packages\Newtonsoft.Json.13.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
-    </Reference>
-    <Reference Include="ScriptHookVDotNet2, Version=2.10.6.0, Culture=neutral, processorArchitecture=AMD64">
-      <HintPath>..\packages\ScriptHookVDotNet2.2.10.7\lib\net452\ScriptHookVDotNet2.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
